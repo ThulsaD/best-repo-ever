@@ -1,3 +1,3 @@
 # best-repo-ever
-Some random text
-Added line 3 in new-branch-1, and edited 'random text' above to 'randomy texty'
+Some randy texty
+For new-branch-2, edited above 'randomy texty' to 'randy texty'
